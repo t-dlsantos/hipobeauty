@@ -4,70 +4,70 @@ const products = [
     name: 'Pele serena 150ml',
     category: 'Hidratantes',
     price: 120.90,
-    image: '../../public/pele-serena.jpeg'
+    image: '/pele-serena.jpeg'
   },
   {
     id: 2,
     name: 'Puro toque 100g',
     category: 'Sabonetes',
     price: 9.90,
-    image: '../../public/sabonete.jpeg'
+    image: '/sabonete.jpeg'
   },
   {
     id: 3,
     name: 'SolDerm 250ml',
     category: 'Protetor Solar',
     price: 109.90,
-    image: '../../public/protetor-solar.jpeg'
+    image: '/protetor-solar.jpeg'
   },
   {
     id: 4,
     name: 'LotusSun 200ml',
     category: 'Protetor Solar',
     price: 84.99,
-    image: '../../public/protetor.jpeg'
+    image: '/protetor.jpeg'
   },
   {
     id: 5,
     name: 'Kit Pele Serena',
     category: 'KIT',
     price: 390.99,
-    image: '../../public/kit.jpeg'
+    image: '/kit.jpeg'
   },
   {
     id: 6,
     name: 'DermoFresh 70ml',
     category: 'Desodorante',
     price: 39.90,
-    image: '../../public/desodorante.jpeg'
+    image: '/desodorante.jpeg'
   },
   {
     id: 7,
     name: 'LotusSpray 100ml',
     category: 'Desodorante',
     price: 45.90,
-    image: '../../public/desodorante-spray.jpeg'
+    image: '/desodorante-spray.jpeg'
   },
   {
     id: 8,
     name: 'LotusLips 3,5g',
     category: 'Batom',
     price: 43.86,
-    image: '../../public/batom.jpeg'
+    image: '/batom.jpeg'
   },
   {
     id: 9,
     name: 'Susurro de frescor 150ml',
     category: 'Perfume',
     price: 119.90,
-    image: '../../public/perfume.jpeg'
+    image: '/perfume.jpeg'
   },
   {
     id: 10,
     name: 'Mistério suave 200ml',
     category: 'Body Splash',
     price: 79.90,
-    image: '../../public/body-splash.jpeg'
+    image: '/body-splash.jpeg'
   }
 ]
 
